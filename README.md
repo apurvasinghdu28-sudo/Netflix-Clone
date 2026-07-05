@@ -1,2 +1,21 @@
-# Netflix-Clone
-# Netflix Clone  A responsive Netflix-inspired landing page built using HTML and CSS.  This project was created to practice: - HTML5 - CSS3 - Flexbox - CSS Grid - Responsive Web Design  It is a frontend-only project created for learning purposes and does not include backend functionality such as authentication or video streaming.
+# Netflix Clone
+
+A responsive Netflix-inspired landing page built using HTML and CSS.
+
+## Features
+- Responsive Design
+- Flexbox Layout
+- CSS Grid
+- Trending Movies Section
+- FAQ Section
+- Footer with Links
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Project Purpose
+This project was created to practice frontend development and improve HTML and CSS skills.
+
+## Note
+This is a frontend-only clone created for educational purposes. It does not include backend functionality or video streaming.
